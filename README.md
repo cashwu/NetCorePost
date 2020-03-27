@@ -1,9 +1,10 @@
 # NetCorePost
 
 POST /Test
-Content-Type: application/json
 
+```json
 {
   "id" : 1,
   "Name" : "test"
 }
+```

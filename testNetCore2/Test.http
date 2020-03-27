@@ -1,0 +1,10 @@
+POST http://localhost:12698/Test
+Content-Type: application/json
+
+{
+  "id" : 1,
+  "Name" : "test"
+}
+
+###
+

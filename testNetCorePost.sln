@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetCore3", "testNetCore3\testNetCore3.csproj", "{71C5DADD-70DF-4299-ADCD-3B749755ECBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testNetCore2", "testNetCore2\testNetCore2.csproj", "{F23795B4-6289-43EF-95DD-D624F577C937}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71C5DADD-70DF-4299-ADCD-3B749755ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71C5DADD-70DF-4299-ADCD-3B749755ECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71C5DADD-70DF-4299-ADCD-3B749755ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71C5DADD-70DF-4299-ADCD-3B749755ECBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23795B4-6289-43EF-95DD-D624F577C937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23795B4-6289-43EF-95DD-D624F577C937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23795B4-6289-43EF-95DD-D624F577C937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23795B4-6289-43EF-95DD-D624F577C937}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
